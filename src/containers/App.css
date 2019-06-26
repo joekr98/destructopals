@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono&display=swap');
+
+h1 {
+    font-family: 'Cutive Mono', monospace;
+    color: rgba(238, 238, 238, 0.877);
+}
