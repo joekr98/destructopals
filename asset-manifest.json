@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/destructopals/static/css/main.9ca08c3a.chunk.css",
+    "main.js": "/destructopals/static/js/main.36a387c9.chunk.js",
+    "main.js.map": "/destructopals/static/js/main.36a387c9.chunk.js.map",
+    "runtime~main.js": "/destructopals/static/js/runtime~main.e2251f52.js",
+    "runtime~main.js.map": "/destructopals/static/js/runtime~main.e2251f52.js.map",
+    "static/css/2.3cf8dc49.chunk.css": "/destructopals/static/css/2.3cf8dc49.chunk.css",
+    "static/js/2.6ceb3333.chunk.js": "/destructopals/static/js/2.6ceb3333.chunk.js",
+    "static/js/2.6ceb3333.chunk.js.map": "/destructopals/static/js/2.6ceb3333.chunk.js.map",
+    "index.html": "/destructopals/index.html",
+    "precache-manifest.3cb6097120dc9200b7318449435b849b.js": "/destructopals/precache-manifest.3cb6097120dc9200b7318449435b849b.js",
+    "service-worker.js": "/destructopals/service-worker.js",
+    "static/css/2.3cf8dc49.chunk.css.map": "/destructopals/static/css/2.3cf8dc49.chunk.css.map",
+    "static/css/main.9ca08c3a.chunk.css.map": "/destructopals/static/css/main.9ca08c3a.chunk.css.map"
+  }
+}
